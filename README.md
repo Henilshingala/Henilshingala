@@ -119,12 +119,12 @@ Android emergency-response app — SOS triggering, GPS sharing, background servi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Henilshingala&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henilshingala&layout=compact&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-sigma-orpin.vercel.app/api?username=Henilshingala&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-sigma-orpin.vercel.app/api/top-langs/?username=Henilshingala&layout=compact&hide_border=true&cache_seconds=86400" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henilshingala&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Henilshingala&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
