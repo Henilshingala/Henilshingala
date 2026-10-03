@@ -87,6 +87,8 @@ Currently pursuing B.Tech in Computer Science & Engineering.
 
 **ByteBuilder Infotech, Surat**
 
+<img src="https://raw.githubusercontent.com/Henilshingala/Certificates/main/i1.jpg" width="280"/>
+
 `26 June 2024 – 12 July 2024`
 
 - Developed Django web application features involving database modeling, backend logic, frontend integration, and testing.
@@ -96,6 +98,8 @@ Currently pursuing B.Tech in Computer Science & Engineering.
 ### Android Developer Intern
 
 **Kartum Infotech, Surat**
+
+<img src="https://raw.githubusercontent.com/Henilshingala/Certificates/main/i2.jpg" width="280"/>
 
 `19 May 2025 – 03 July 2025`
 
