@@ -384,7 +384,7 @@ See my repositories for additional work.
 
 ### Microsoft Applied Skills: Accelerate AI-assisted Development by using GitHub Copilot
 
-<img src="https://raw.githubusercontent.com/Henilshingala/Certificates/main/1.jpeg" width="180"/>
+<img src="https://raw.githubusercontent.com/Henilshingala/Certificates/main/1.jpg" width="180"/>
 
 **Microsoft**
 
