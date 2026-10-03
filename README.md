@@ -378,34 +378,35 @@ See my repositories for additional work.
 - 🎓 Currently pursuing **B.Tech in Computer Science & Engineering**
 
 ---
-
 # 📜 Certifications
 
-### Google
+## Microsoft
 
-**Google AI Professional Certificate — Google / Coursera**
+### Microsoft Applied Skills: Accelerate AI-assisted Development by using GitHub Copilot
+
+<img src="https://raw.githubusercontent.com/Henilshingala/Certificates/main/1.jpg" width="180"/>
+
+**Microsoft**
 
 Covered:
 
-- AI Fundamentals
-- AI for Brainstorming & Planning
-- AI for Research & Insights
-- AI for Writing & Communication
-- AI for Content Creation
-- AI for Data Analysis
-- AI for App Building
+- AI-assisted Software Development
+- C# & ASP.NET Core
+- REST API Development
+- Debugging
+- Swagger
+- Unit Testing
+- GitHub Workflows
 
-### Gemini for Developers
+---
 
-**Google DeepMind / Coursera**
+## Walmart Global Tech
 
-- Getting Started with Google Gemini API
-- Exploring AI with Google AI Studio
-- Gemini Capstone Project
+### Advanced Software Engineering Job Simulation
 
-### Walmart Global Tech
+<img src="https://raw.githubusercontent.com/Henilshingala/Certificates/main/2.jpg" width="180"/>
 
-**Advanced Software Engineering Job Simulation — Forage**
+**Forage**
 
 Covered:
 
@@ -413,23 +414,412 @@ Covered:
 - Software Architecture
 - Relational Database Design
 - Data Munging
+- Java
+- Python
+- SQL
+- SOLID Principles
 
-### Microsoft
+---
 
-**Microsoft Applied Skills: GitHub Copilot**
+## Google DeepMind
 
-- Accelerate AI-assisted Development using GitHub Copilot
+### Gemini for Developers
 
-### Anthropic
+<img src="https://raw.githubusercontent.com/Henilshingala/Certificates/main/3.jpg" width="180"/>
 
-**Anthropic AI & Claude Certifications**
+**Google DeepMind**
 
-- Claude 101
-- Claude Code 101
-- Claude Code in Action
-- Claude with Anthropic API
-- Model Context Protocol: Advanced Topics
+Covered:
 
+- Gemini APIs with Python & JavaScript
+- Google AI Studio
+- Function Calling
+- Google Search Grounding
+- Structured JSON Output
+- Token Management
+- Error Handling
+- Google Cloud Run
+
+---
+
+## Anthropic
+
+### Claude Code in Action
+
+<img src="https://raw.githubusercontent.com/Henilshingala/Certificates/main/4.jpg" width="180"/>
+
+**Anthropic**
+
+Covered:
+
+- AI Coding Workflows
+- Claude Code
+- Software Development
+- Backend Web Development
+- AI-assisted Development
+
+---
+
+### Claude Code 101
+
+<img src="https://raw.githubusercontent.com/Henilshingala/Certificates/main/5.jpg" width="180"/>
+
+**Anthropic**
+
+Covered:
+
+- AI Coding Workflows
+- Software Development
+- Claude Code
+
+---
+
+### Claude with the Anthropic API
+
+<img src="https://raw.githubusercontent.com/Henilshingala/Certificates/main/6.jpg" width="180"/>
+
+**Anthropic**
+
+Covered:
+
+- Backend Web Development
+- Software Development
+- Anthropic API
+- Claude Integration
+- API-based AI Development
+
+---
+
+### Claude with Amazon Bedrock
+
+<img src="https://raw.githubusercontent.com/Henilshingala/Certificates/main/7.jpg" width="180"/>
+
+**Anthropic**
+
+Covered:
+
+- Backend Web Development
+- Software Development
+- Amazon Bedrock
+- Claude Integration
+
+---
+
+### Claude with Google Vertex AI
+
+<img src="https://raw.githubusercontent.com/Henilshingala/Certificates/main/8.jpg" width="180"/>
+
+**Anthropic**
+
+Covered:
+
+- Backend Web Development
+- Software Development
+- Google Vertex AI
+- Claude Integration
+
+---
+
+### Model Context Protocol: Advanced Topics
+
+<img src="https://raw.githubusercontent.com/Henilshingala/Certificates/main/9.jpg" width="180"/>
+
+**Anthropic**
+
+Covered:
+
+- Backend Web Development
+- Software Development
+- Model Context Protocol
+- Advanced MCP Concepts
+
+---
+
+### Introduction to Model Context Protocol
+
+<img src="https://raw.githubusercontent.com/Henilshingala/Certificates/main/10.jpg" width="180"/>
+
+**Anthropic**
+
+Covered:
+
+- Backend Web Development
+- AI
+- Model Context Protocol
+- MCP Fundamentals
+
+---
+
+### Introduction to Subagents
+
+<img src="https://raw.githubusercontent.com/Henilshingala/Certificates/main/11.jpg" width="180"/>
+
+**Anthropic**
+
+Covered:
+
+- AI
+- AI Agents
+- Subagents
+- Agent-based Workflows
+
+---
+
+### Introduction to Agent Skills
+
+<img src="https://raw.githubusercontent.com/Henilshingala/Certificates/main/12.jpg" width="180"/>
+
+**Anthropic**
+
+Covered:
+
+- Software Development
+- AI
+- Agent Skills
+- AI-assisted Development
+
+---
+
+### Introduction to Claude Cowork
+
+<img src="https://raw.githubusercontent.com/Henilshingala/Certificates/main/13.jpg" width="180"/>
+
+**Anthropic**
+
+Covered:
+
+- Software Development
+- AI
+- Claude Cowork
+
+---
+
+### Claude 101
+
+<img src="https://raw.githubusercontent.com/Henilshingala/Certificates/main/14.jpg" width="180"/>
+
+**Anthropic**
+
+Covered:
+
+- Software Development
+- AI
+- Claude Fundamentals
+
+---
+
+### AI Fluency: Framework & Foundations
+
+<img src="https://raw.githubusercontent.com/Henilshingala/Certificates/main/15.jpg" width="180"/>
+
+**Anthropic**
+
+Covered:
+
+- AI
+- AI-assisted Development
+- AI Fluency Framework
+
+---
+
+### AI Fluency: AI Capabilities & Limitations
+
+<img src="https://raw.githubusercontent.com/Henilshingala/Certificates/main/16.jpg" width="180"/>
+
+**Anthropic**
+
+Covered:
+
+- AI
+- Prompt Engineering
+- AI Capabilities
+- AI Limitations
+
+---
+
+### AI Fluency for Students
+
+<img src="https://raw.githubusercontent.com/Henilshingala/Certificates/main/17.jpg" width="180"/>
+
+**Anthropic**
+
+Covered:
+
+- AI
+- Prompt Engineering
+- AI Fluency
+
+---
+
+### AI Fluency for Educators
+
+<img src="https://raw.githubusercontent.com/Henilshingala/Certificates/main/18.jpg" width="180"/>
+
+**Anthropic**
+
+Covered:
+
+- AI
+- Prompt Engineering
+- AI Fluency
+
+---
+
+### AI Fluency for Nonprofits
+
+<img src="https://raw.githubusercontent.com/Henilshingala/Certificates/main/19.jpg" width="180"/>
+
+**Anthropic**
+
+Covered:
+
+- AI
+- AI Pair Programming
+- AI-assisted Programming
+
+---
+
+### Teaching the AI Fluency Framework
+
+<img src="https://raw.githubusercontent.com/Henilshingala/Certificates/main/20.jpg" width="180"/>
+
+**Anthropic**
+
+Covered:
+
+- AI
+- AI Pair Programming
+- AI-assisted Programming
+- AI Fluency Framework
+
+---
+
+## Google
+
+### Google AI Professional Certificate
+
+<img src="https://raw.githubusercontent.com/Henilshingala/Certificates/main/21.jpg" width="180"/>
+
+**Google**
+
+Covered:
+
+- AI Fundamentals
+- Prompt Engineering
+- AI for Research & Insights
+- AI for Content Creation
+- AI for Data Analysis
+- AI-powered Application Development
+
+---
+
+### Google Prompting Essentials
+
+<img src="https://raw.githubusercontent.com/Henilshingala/Certificates/main/22.jpg" width="180"/>
+
+**Google**
+
+Covered:
+
+- Prompt Design
+- Advanced Prompting Techniques
+- Generative AI Workflows
+- Data Analysis
+- Information Summarization
+- Content Creation
+- AI-assisted Productivity
+
+---
+
+## Cisco Networking Academy
+
+### C++ Essentials 1
+
+<img src="https://raw.githubusercontent.com/Henilshingala/Certificates/main/23.jpg" width="180"/>
+
+**Cisco Networking Academy**
+
+Covered:
+
+- Fundamental Programming Concepts
+- C++ Syntax & Semantics
+- C++ Language Features
+- Runtime Environment
+- C++ Programming
+
+---
+
+## Vanderbilt University
+
+### ChatGPT: Master Free AI Tools to Supercharge Productivity
+
+<img src="https://raw.githubusercontent.com/Henilshingala/Certificates/main/24.jpg" width="180"/>
+
+**Vanderbilt University**
+
+Covered:
+
+- Prompt Engineering
+- Advanced Prompting
+- Generative AI Workflows
+- Custom GPT-based Assistants
+- AI-powered Research
+- Workflow Automation
+- Productivity Enhancement
+
+---
+
+## Tata
+
+### Tata Data Visualisation: Empowering Business with Effective Insights
+
+<img src="https://raw.githubusercontent.com/Henilshingala/Certificates/main/25.jpg" width="180"/>
+
+**Forage**
+
+Covered:
+
+- Data Cleaning
+- Revenue Analysis
+- Data Visualization
+- Dashboard Creation
+- Business Insights
+
+---
+
+## Google Digital Academy
+
+### Google Analytics Certification
+
+<img src="https://raw.githubusercontent.com/Henilshingala/Certificates/main/26.jpg" width="180"/>
+
+**Google Digital Academy (Skillshop)**
+
+Covered:
+
+- Google Analytics 4 (GA4)
+- Event Tracking
+- Conversion Measurement
+- Audience Analysis
+- User Behavior Analysis
+- Data-driven Reporting
+
+---
+
+## Outskill
+
+### Generative AI Mastermind
+
+<img src="https://raw.githubusercontent.com/Henilshingala/Certificates/main/27.jpg" width="180"/>
+
+**Outskill**
+
+Covered:
+
+- Generative AI
+- AI-assisted Development
+- AI Productivity Workflows
+- Practical Generative AI Applications
 ---
 
 # 📊 GitHub Stats
