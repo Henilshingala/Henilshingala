@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Henil Shingala 👋</h1>
 
 <h3 align="center">
-  AI/ML Engineer in Training • Backend & Full-Stack Software Engineer
+  Software Developer | Backend & Full-Stack Engineering
 </h3>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Building+AI%2FML+and+full-stack+systems;Backend+%7C+AI%2FML+%7C+Android+%7C+Real-Time+Applications;Turning+real-world+problems+into+software;Learning%2C+building%2C+deploying"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Building+real-world+software+systems;Backend+%7C+Full-Stack+%7C+Android;Turning+real+problems+into+working+software;Learning%2C+building%2C+deploying"
     alt="Typing SVG"
   />
 </p>
@@ -32,158 +32,123 @@
 
 ## 👨‍💻 About Me
 
-I am a **Computer Science Engineering student and software developer** with a strong interest in **AI/ML, backend engineering, and full-stack application development**.
+I am a **Computer Science Engineering student and software developer** with hands-on experience building backend, full-stack, Android, real-time, and AI/ML-powered applications.
 
-I completed my **Diploma in Information Technology from Gujarat Technological University (GTU)** with a **9.04/10 CGPA** and am currently pursuing my **B.Tech in Computer Science & Engineering at Parul University**.
+I completed my **Diploma in Information Technology Engineering from Gujarat Technological University** with a **9.04/10 CGPA** and am currently pursuing a **B.Tech in Computer Science & Engineering at Parul University**.
 
-I have worked on real-world software projects, internships, freelance/client work, and deployed applications across **web, mobile, backend, AI/ML, and real-time systems**.
+I enjoy building software that solves practical problems, from designing backend APIs and database systems to developing complete user-facing applications and deploying them online.
 
-My current focus is building stronger foundations in:
+My experience includes:
 
-- Machine Learning & Deep Learning
-- Backend Engineering
-- Data Structures & Algorithms
-- System Design
-- Software Architecture
-- Production-ready application development
+- Backend and REST API development
+- Full-stack web applications
+- Real-time applications
+- Android development
+- Database-driven systems
+- Authentication and authorization
+- Payment integrations
+- Cloud deployment
+- AI/ML-powered applications
 
-I enjoy taking a real problem, designing a solution, writing the software, deploying it, and then improving it through debugging and iteration.
+My current focus is becoming a stronger **Software Developer** by improving my programming fundamentals, problem-solving ability, backend engineering, system design, and production-level development practices.
 
 ---
 
 ## 🎓 Education
 
 ### B.Tech in Computer Science & Engineering
-**Parul Institute of Technology, Parul University — Vadodara, Gujarat**
+
+**Parul Institute of Technology (PIT), Parul University, Vadodara**
 
 `2026 – Present`
 
 Currently pursuing B.Tech in Computer Science & Engineering.
 
----
+### Diploma in Information Technology Engineering
 
-### Diploma in Information Technology
-**Gujarat Technological University (GTU)**
+**Tapi Diploma Engineering College, Gujarat Technological University**
 
 `2023 – 2026`
 
-**Final CGPA: 9.04 / 10**
+**CGPA: 9.04 / 10**
 
 #### Academic Highlights
 
-- Final Diploma CGPA: **9.04/10**
+- Final CGPA: **9.04/10**
 - Final Semester SPI: **9.84**
-- Completed the diploma without backlogs
-- Strong performance in software and technology-oriented subjects
-
-#### Selected Final-Semester Subjects
-
-| Subject | Grade |
-|---|---|
-| Cyber Security & Digital Forensics | AA |
-| Cloud & Data Center Technologies | AA |
-| Foundation of Blockchain | AA |
-| Software Development | AB |
+- Completed Diploma in Information Technology Engineering
+- Strong academic and practical experience in software development
 
 ---
 
 ## 💼 Experience
 
 ### Django Developer Intern
-**ByteBuilder Infotech — Surat, Gujarat**
 
-`2024`
+**ByteBuilder Infotech, Surat**
 
-Worked on backend and web application development using Django and related technologies.
+`26 June 2024 – 12 July 2024`
 
-- Developed and worked on backend functionality
-- Worked with databases and web application architecture
-- Gained practical experience with real software development workflows
-- Worked on debugging, implementation, and application development
-
----
+- Developed Django web application features involving database modeling, backend logic, frontend integration, and testing.
+- Implemented backend workflows and database-driven functionality using Django.
+- Worked with real application requirements and software development workflows.
 
 ### Android Developer Intern
-**Kartum Infotech — Surat, Gujarat**
 
-`2025`
+**Kartum Infotech, Surat**
 
-Worked on Android application development and mobile software engineering.
+`19 May 2025 – 03 July 2025`
 
-- Developed Android application features
-- Worked with Kotlin and Android development tools
-- Implemented application functionality and API integration
-- Gained experience working on real-world mobile application requirements
-
----
-
-## 💰 Client & Freelance Development
-
-Alongside academic work, I have built software for real clients and generated **₹75,000+ in software/freelance income**.
-
-Selected work includes:
-
-- 🛡️ Women's Safety / Emergency Response Application
-- 🛒 O2O Marketplace Platform
-- 💎 Jewelry / E-commerce Website
-- 📦 Product Management Website
-- ☕ Cafe Menu Website
-- 🏢 Corporate Branding & Software Work
-- 🎓 Academic / Final-Year Software Projects
-
-This experience helped me understand practical requirements beyond classroom projects: communication, requirements gathering, implementation, debugging, deployment, and delivering working software.
+- Developed a Kotlin-based Android application with product listing and cart functionality.
+- Implemented Android UI, application logic, and data-handling workflows for core features.
+- Worked with practical mobile application development requirements.
 
 ---
 
 ## 🚀 What I Build
 
-I mainly work across these areas:
+### ⚙️ Backend Systems
 
-### 🤖 AI / Machine Learning
-- Machine learning applications
-- Recommendation systems
-- Classification and prediction systems
-- AI-assisted applications
-- Data processing and model integration
-
-### ⚙️ Backend Engineering
 - REST APIs
+- Django applications
+- Django REST Framework
+- FastAPI services
+- Node.js & Express.js backends
 - Authentication and authorization
-- Database-driven applications
-- Backend architecture
-- Real-time communication
-- Service integrations
+- Database-driven business logic
 
-### 🌐 Full-Stack Development
-- Web applications
-- E-commerce systems
+### 🌐 Full-Stack Applications
+
+- E-commerce platforms
+- Marketplace systems
 - Admin dashboards
-- Marketplace platforms
-- API-driven applications
+- API-driven web applications
+- Real-world business applications
 
-### 📱 Android Development
+### 📱 Android Applications
+
 - Kotlin applications
 - Jetpack Compose
-- Firebase integrations
 - REST API integration
+- Firebase
+- Room database
 - Background services
-- Local storage
 
-### ⚡ Real-Time Systems
-- WebSocket communication
+### ⚡ Real-Time Applications
+
+- WebSocket-based systems
 - Socket.IO
 - Real-time chat
 - Notifications
-- Live application workflows
+- Live bidding and communication
 
-### ☁️ Deployment & Engineering
-- Cloud deployment
-- Linux environments
-- Git/GitHub workflows
-- Docker
-- Vercel
-- AWS
-- Render
+### 🤖 AI/ML Applications
+
+- Machine learning prediction systems
+- Recommendation systems
+- AI-powered application features
+- Model inference services
+- Data-driven applications
 
 ---
 
@@ -195,8 +160,8 @@ I mainly work across these areas:
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
@@ -205,6 +170,7 @@ I mainly work across these areas:
 
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -215,44 +181,46 @@ I mainly work across these areas:
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-## AI / ML / Data
+## Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+## AI / ML
 
 <p>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-01A6C0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LightGBM-2F7B2F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-## Databases & Storage
+## Tools & Cloud
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white" />
-</p>
-
-## DevOps, Cloud & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+## AI-Assisted Development
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -265,33 +233,41 @@ I mainly work across these areas:
 
 ### 🌾 [Crop Recommendation System](https://github.com/Henilshingala/crop-recommendation-system)
 
-AI-powered agriculture platform designed to assist farmers with crop recommendations and agricultural information.
+AI/ML-powered agriculture platform combining machine learning with a full-stack application.
 
 **Highlights**
-- ML-based crop prediction
+- Crop recommendation system
 - 22-language support
-- Real-time weather information
+- Real-time weather integration
 - 800+ government schemes
-- AI/ML-driven recommendations
+- Separate FastAPI inference service
 
-`React` `Django REST` `FastAPI` `XGBoost` `LightGBM` `Redis`
+**Tech**
+
+`React` `Django REST` `FastAPI` `Python` `scikit-learn` `XGBoost` `LightGBM` `Redis`
+
+**Live:**  
+https://crop-recomandation-system.vercel.app/
 
 </td>
 
 <td width="50%">
 
-### 🛒 [O2O Marketplace](https://github.com/Henilshingala/O2O)
+### 🛒 [O2O](https://github.com/Henilshingala/O2O)
 
-Real-time buyer-seller marketplace designed around marketplace workflows and communication.
+Real-time buyer-seller marketplace with multiple role-based workflows.
 
 **Highlights**
-- Buyer and seller workflows
-- Real-time bidding
-- Chat and groups
+- Product listings
+- Bidding
+- Real-time chat
+- Groups
 - Notifications
-- Role-based functionality
+- Role-based workflows
 
-`React Native` `Node.js` `Socket.IO` `PostgreSQL` `JWT`
+**Tech**
+
+`React Native` `TypeScript` `Node.js` `Express.js` `PostgreSQL` `Socket.IO` `JWT` `Firebase`
 
 </td>
 </tr>
@@ -301,17 +277,20 @@ Real-time buyer-seller marketplace designed around marketplace workflows and com
 
 ### 💎 [Raivat Stones](https://github.com/Henilshingala/raivat)
 
-Deployed e-commerce platform developed for a jewelry business.
+Deployed e-commerce platform for a jewelry business.
 
 **Highlights**
 - Authentication
 - Product catalog
 - Shopping cart
-- Order management
-- Razorpay payment integration
+- Orders
+- Razorpay payments
 - Admin management
+- Product, pricing, discount and content management
 
-`Django` `SQLite` `AWS` `Razorpay`
+**Tech**
+
+`Python` `Django` `SQLite` `AWS` `Razorpay`
 
 </td>
 
@@ -319,16 +298,67 @@ Deployed e-commerce platform developed for a jewelry business.
 
 ### 🛡️ [Nirbhaya / WhoSafe](https://github.com/Henilshingala/Nirbhaya-Who-Safe)
 
-Android emergency-response application focused on personal safety and rapid emergency communication.
+Android emergency-response application focused on fast emergency communication.
 
 **Highlights**
 - SOS triggering
-- GPS/location sharing
-- Background services
-- Local data handling
-- Emergency workflows
+- GPS location sharing
+- REST APIs
+- Firebase integration
+- Foreground services
+- Background execution
+- Broadcast receivers
+- Android permission management
 
-`Kotlin` `Jetpack Compose` `Room` `Retrofit` `Firebase`
+**Tech**
+
+`Kotlin` `Jetpack Compose` `Room` `Retrofit` `Firebase` `Android SDK`
+
+**Live:**  
+https://play.google.com/store/apps/details?id=com.whosafe.app
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🚗 [Bilipefirs](https://github.com/Henilshingala/bilipefirs)
+
+Full-stack Web3 car-selling platform.
+
+**Highlights**
+- Authentication
+- Vehicle listings
+- Admin management
+- MetaMask wallet integration
+- Online deployment
+
+**Tech**
+
+`Python` `Django` `SQLite` `MetaMask`
+
+**Live:**  
+https://henilshingala.pythonanywhere.com/
+
+</td>
+
+<td width="50%">
+
+### 🧩 More Projects
+
+I continue experimenting with software across:
+
+- Backend systems
+- REST APIs
+- E-commerce
+- Mobile applications
+- Real-time systems
+- AI/ML applications
+- Web3 applications
+- Client and academic projects
+
+See my repositories for additional work.
 
 </td>
 </tr>
@@ -336,32 +366,69 @@ Android emergency-response application focused on personal safety and rapid emer
 
 ---
 
-# 🏆 Selected Achievements
+# 🏆 Highlights
 
-- 🎓 Completed Diploma in Information Technology with **9.04/10 CGPA**
-- 📚 Achieved **9.84 SPI in the final semester**
-- 💻 Completed software development internships in **Django** and **Android**
-- 💰 Earned **₹75,000+** through software development and client/freelance work
-- 🚀 Built and deployed real-world web, mobile, backend, and AI/ML applications
-- 🎯 Currently pursuing **B.Tech in Computer Science & Engineering**
-- 🏅 Received **100% tuition fee waiver under TFWS** for B.Tech
+- 🎓 **Diploma in Information Technology Engineering**
+- 📊 **9.04/10 Diploma CGPA**
+- 📚 **9.84 final-semester SPI**
+- 💻 Django Developer Internship
+- 📱 Android Developer Internship
+- 🚀 Built and deployed multiple real-world software applications
+- 🌐 Worked across backend, full-stack, Android, real-time, and AI/ML systems
+- 🎓 Currently pursuing **B.Tech in Computer Science & Engineering**
 
 ---
 
-# 📜 Certifications & Learning
+# 📜 Certifications
 
-### AI / Developer Learning
+### Google
 
-- **Google AI Professional Certificate**
-- **Anthropic Claude 101**
-- **Anthropic Claude Code 101**
-- **Model Context Protocol (MCP)**
-- **Gemini for Developers**
+**Google AI Professional Certificate — Google / Coursera**
 
-### Industry Programs
+Covered:
 
-- **Walmart Global Tech – Forage**
-- **Microsoft Applied Skills**
+- AI Fundamentals
+- AI for Brainstorming & Planning
+- AI for Research & Insights
+- AI for Writing & Communication
+- AI for Content Creation
+- AI for Data Analysis
+- AI for App Building
+
+### Gemini for Developers
+
+**Google DeepMind / Coursera**
+
+- Getting Started with Google Gemini API
+- Exploring AI with Google AI Studio
+- Gemini Capstone Project
+
+### Walmart Global Tech
+
+**Advanced Software Engineering Job Simulation — Forage**
+
+Covered:
+
+- Advanced Data Structures
+- Software Architecture
+- Relational Database Design
+- Data Munging
+
+### Microsoft
+
+**Microsoft Applied Skills: GitHub Copilot**
+
+- Accelerate AI-assisted Development using GitHub Copilot
+
+### Anthropic
+
+**Anthropic AI & Claude Certifications**
+
+- Claude 101
+- Claude Code 101
+- Claude Code in Action
+- Claude with Anthropic API
+- Model Context Protocol: Advanced Topics
 
 ---
 
@@ -391,12 +458,71 @@ Android emergency-response application focused on personal safety and rapid emer
 
 # 📚 Currently Learning
 
+- Data Structures & Algorithms
+- Backend Architecture
+- System Design
+- Database Design
+- Software Engineering Fundamentals
+- API Design & Development
+- Production Deployment
+- Clean and Maintainable Code
+- AI-assisted Software Development
+
+---
+
+# 🎯 Career Direction
+
+My goal is to become a strong **Software Developer** capable of designing, building, deploying, and maintaining reliable software systems.
+
+I am particularly interested in growing across:
+
 ```text
-Machine Learning & Deep Learning
-Data Structures & Algorithms
-Backend Architecture
+Problem Solving
+      ↓
+Software Design
+      ↓
+Backend Engineering
+      ↓
+Full-Stack Development
+      ↓
 System Design
-Real-Time & Distributed Systems
-Database Design
-Software Engineering Fundamentals
-Production Deployment & Engineering
+      ↓
+Deployment
+      ↓
+Production Software
+```
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+  <a href="https://linkedin.com/in/henil-shingala">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://github.com/Henilshingala">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+  <a href="mailto:henilshingala2462@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>Building real software, learning continuously, and improving through every project.</i>
+</p>
