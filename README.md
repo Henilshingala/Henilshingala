@@ -12,10 +12,11 @@
 </p>
 
 
+
 <p align="center">
   <a href="https://github.com/Henilshingala">
     <img
-      src="https://komarev.com/ghpvc/?username=Henilshingala"
+      src="https://shieldcn.dev/views/user/Henilshingala.svg?variant=branded"
       alt="Profile Views"
     />
   </a>
@@ -28,6 +29,7 @@
     alt="Diploma CGPA"
   />
 </p>
+
 
 
 ---
