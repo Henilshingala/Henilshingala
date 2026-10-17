@@ -14,12 +14,6 @@
 
 
 <p align="center">
-  <a href="https://github.com/Henilshingala">
-    <img
-      src="https://shieldcn.dev/views/user/Henilshingala.svg?variant=branded"
-      alt="Profile Views"
-    />
-  </a>
   <img
     src="https://img.shields.io/badge/B.Tech-CSE%20%7C%20Parul%20University-2E9EF7"
     alt="B.Tech CSE"
