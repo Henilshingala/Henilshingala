@@ -11,10 +11,24 @@
   />
 </p>
 
+
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-CSE%20%7C%20Parul%20University-2E9EF7" alt="B.Tech CSE" />
-  <img src="https://img.shields.io/badge/Diploma%20CGPA-9.04%2F10-2E9EF7" alt="Diploma CGPA" />
+  <a href="https://github.com/Henilshingala">
+    <img
+      src="https://komarev.com/ghpvc/?username=Henilshingala"
+      alt="Profile Views"
+    />
+  </a>
+  <img
+    src="https://img.shields.io/badge/B.Tech-CSE%20%7C%20Parul%20University-2E9EF7"
+    alt="B.Tech CSE"
+  />
+  <img
+    src="https://img.shields.io/badge/Diploma%20CGPA-9.04%2F10-2E9EF7"
+    alt="Diploma CGPA"
+  />
 </p>
+
 
 ---
 
