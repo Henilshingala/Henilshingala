@@ -829,11 +829,11 @@ Covered:
 # 📊 GitHub Stats
 
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Henilshingala&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=Henilshingala&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs&cache_seconds=86400"
+  alt="GitHub Stats"
+/>
   <img
     height="165"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henilshingala&layout=compact&theme=tokyonight&hide_border=true"
