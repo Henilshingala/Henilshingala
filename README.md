@@ -828,20 +828,20 @@ Covered:
 
 # 📊 GitHub Stats
 
-
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henilshingala&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
 <p align="center">
   <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henilshingala&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Most Used Languages"
+  />
+  &nbsp;&nbsp;
+  <img
     src="https://streak-stats.demolab.com?user=Henilshingala&theme=tokyonight&hide_border=true"
+    height="180"
     alt="GitHub Streak"
   />
 </p>
+
 ---
 
 # 📚 Currently Learning
