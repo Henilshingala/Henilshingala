@@ -831,23 +831,22 @@ Covered:
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats-sigma-orpin.vercel.app/api?username=Henilshingala&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api?username=Henilshingala&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
   />
   <img
     height="165"
-    src="https://github-readme-stats-sigma-orpin.vercel.app/api/top-langs/?username=Henilshingala&layout=compact&hide_border=true&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henilshingala&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Henilshingala&hide_border=true"
+    src="https://streak-stats.demolab.com?user=Henilshingala&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
-
 ---
 
 # 📚 Currently Learning
