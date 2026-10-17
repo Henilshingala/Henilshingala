@@ -12,12 +12,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Henilshingala">
-    <img
-      src="https://komarev.com/ghpvc/?username=Henilshingala&label=Profile%20Views&color=2E9EF7&style=flat"
-      alt="Profile Views"
-    />
-  </a>
+
+<a href="https://github.com/Henilshingala">
+  <img
+    src="https://komarev.com/ghpvc/?username=Henilshingala&label=Profile%20Views&color=2E9EF7&style=flat&v=3"
+    alt="Profile Views"
+  />
+</a>
+
   <img
     src="https://img.shields.io/badge/B.Tech-CSE%20%7C%20Parul%20University-2E9EF7"
     alt="B.Tech CSE"
