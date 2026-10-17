@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://github.com/Henilshingala">
 <img
-  src="https://komarev.com/ghpvc/?username=Henilshingala&label=Profile%20Views&color=2E9EF7&style=flat&v=2"
+  src="https://img.shields.io/badge/Profile%20Views-GitHub-2E9EF7?style=flat"
   alt="Profile Views"
 />
   </a>
