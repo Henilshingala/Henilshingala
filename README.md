@@ -828,12 +828,7 @@ Covered:
 
 # 📊 GitHub Stats
 
-<p align="center">
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henilshingala&layout=compact&theme=tokyonight&hide=c%2B%2B"
-  alt="GitHub Stats"
-/>
+
   <img
     height="165"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henilshingala&layout=compact&theme=tokyonight&hide_border=true"
